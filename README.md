@@ -1,5 +1,5 @@
 # Java Raytracer
-A set of Java files written to run a simple raytracer. It is currently only capable of rendering any number of spheres with diffuse shading using point, directional, and (ambient?) lighting.
+A set of Java files written to run a simple raytracer. It is currently only capable of rendering any number of spheres with diffuse shading using point, directional, and ambient lighting.
 
 <img width="997" alt="Screenshot 2024-10-10 at 1 33 14 AM" src="https://github.com/user-attachments/assets/887e0444-c60e-456a-824d-a909b6d724f1">
 
